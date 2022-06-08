@@ -36,16 +36,15 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('⚙️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚙️', 'https://t.me/Alexa_MentionBot?startgroup=true'),
-        Button.url('👥 ɢʀᴏᴜᴘ 👥︎', 'https://t.me/Shayri_Music_Lovers'),
+        Button.url('⚙️ ᴀᴅᴅ ᴍᴇ ɪɴ yᴏᴜʀ ɢʀᴏᴜᴩ ⚙️', 'https://t.me/{}?startgroup=true'),
+        Button.url('👥 ᴄʜᴀɴɴᴇʟ', 'https://t.me/ML_MOVIE_LOKAM'),
         ],
         [
-        Button.url('📣 ᴄʜᴀɴɴᴇʟ 📣️', 'https://t.me/AsadSupport'),
-        Button.url('👸 ǫᴜᴇᴇɴ 👸︎', 'https://t.me/Sonali_rajputt_Queen_Of_ROCKS'),
+        Button.url('📣 ᴄʜᴀɴɴᴇʟ 📣️', 'https://t.me/ML_MOVIE_LOKAM'),
+        Button.url('🔰 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🔰', 'https://t.me/ML_MOVIE_LOKAM'),
         ],
         [
-        Button.url('❤️ ʙʀᴏ ❤️️', 'https://t.me/HarshitSharma361'),
-        Button.url('👑 ᴋɪɴɢ 👑︎', 'https://t.me/Dr_Asad_Ali'),
+        Button.url('🤴 ᴏᴡɴᴇʀ', 'https://t.me/Bad_Bunny_444'),
       ]
     )
   )
